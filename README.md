@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm <span style="color:#0b76ef;">Sadhik</span> 👨‍💻</h1>
 
 <p align="center">
-  <strong>MCA Graduate</strong> | <strong>Passionate Python Developer</strong> | <strong>Student Tech Mentor</strong>  
+  <strong>MCA Graduate</strong> | <strong>Passionate Python Developer</strong> | <strong>Tech Enthusiastic</strong>  
 </p>
 
 ---
