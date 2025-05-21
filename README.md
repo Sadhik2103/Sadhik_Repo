@@ -67,7 +67,7 @@
 
 - 📦 Docker & Containerization  
 - 🔌 Flask REST APIs  
-- ☁️ Cloud Deployment (Render, Railway, Heroku)
+
 
 ---
 
